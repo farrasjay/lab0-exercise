@@ -1,5 +1,7 @@
-Nama    : Farras Hafizhudin Indra Wijaya
+Nama : Farras Hafizhudin Indra Wijaya
 
-NPM     : 2106652682
+NPM : 2106652682
 
-Kelas   : B
+Kelas : B
+
+Hobi : Custom Keyboard
